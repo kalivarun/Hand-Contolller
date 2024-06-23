@@ -1,5 +1,5 @@
 # Hand Gesture Controlled Virtual Mouse and Gamepad
-
+![Project Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfZc4dgKUwVFAR1Zp9Xfu_if0dVHJRfqB_Sg&s)
 ## Overview
 
 This repository contains two Python scripts that utilize hand gestures detected via a webcam to control a virtual mouse and gamepad. The scripts use OpenCV, MediaPipe, and PyAutoGUI to achieve this functionality.
