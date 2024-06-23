@@ -10,6 +10,7 @@ This repository contains two Python scripts that utilize hand gestures detected 
 - **Virtual Gamepad**: Control arrow keys based on hand gestures to simulate gamepad movements.
 
 ## Setup and Installation
+![Hand Detection](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcBZmSNl_F2Jni2yNqxOnArfkzDMexDuVvg&s)
 
 ### Prerequisites
 
